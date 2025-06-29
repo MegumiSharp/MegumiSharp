@@ -10,12 +10,13 @@
 
 ###
 
-<p align="left">- 💻 Passionate about software development and interested in artificial intelligence  <br>-
-  🐍 Currently learning Python and SQL  <br>- 
-  🚀 Preparing for upcoming job opportunities  <br>- 
-  📂 Building a personal portfolio (coming soon!)  <br>- 
- 🔍 Excellent at researching and finding answers online</p>
+- 💻 Passionate about software development and interested in artificial intelligence  
+- 🐍 Currently learning Python and SQL  
+- 🚀 Preparing for upcoming job opportunities  
+- 📂 Building a personal portfolio (coming soon!)  
+- 🔍 Excellent at researching and finding answers online
 
+If you'd like to connect with me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simone.enselmi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetano-simone-enselmi-255539372/) [![Portfolio](https://img.shields.io/badge/Portfolio-1CA9C9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
