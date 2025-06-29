@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Gaetano Simone Enselmi — but please call me by my second name, Simone.  <br>I'm a Computer Science student at the University of Bari “Aldo Moro”, passionate about software development and currently exploring the world of artificial intelligence.<br><br>I'm sharpening my skills in **Python**, **SQL**, and **web development** as I prepare for upcoming job opportunities in the next few months, while also working on my personal portfolio (coming soon!).<br><br>I'm always open to learning new things and collaborating on exciting projects 🚀</p>
+<p align="left">I'm Gaetano Simone Enselmi — but please call me by my second name, Simone.  <br>I'm a Computer Science student at the University of Bari “Aldo Moro”, passionate about software development and currently exploring the world of artificial intelligence.<br><br>I'm sharpening my skills in <b>Python</b>, <b>SQL</b>, and <b>web development</b> as I prepare for upcoming job opportunities in the next few months, while also working on my personal portfolio (coming soon!).<br><br>I'm always open to learning new things and collaborating on exciting projects 🚀</p>
 
 ###
 
@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">## About Me<br><br>🎓 Computer Science student at the University of Bari “Aldo Moro” | 💻 Passionate about software development & AI | 🐍 Learning Python & SQL | 🌐 Exploring web development | 🚀 Preparing for job opportunities | 📂 Portfolio coming soon | 🤝 Open to collaboration | 🔍 Skilled at online research<br><br>---<br><br>
-### 📫 Connect with me<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-enselmi/)  
-  <br>
-  🌐 Portfolio: [YourPortfolioLinkHere](https://yourportfolio.com)</p>
+<p align="left">- 💻 Passionate about software development and interested in artificial intelligence  <br>- 🐍 Currently learning Python and SQL  <br>- 🌐 Exploring web development technologies  <br>- 🤖 Goal: To deepen my knowledge and skills in artificial intelligence  <br>- 🚀 Preparing for upcoming job opportunities  <br>- 📂 Building a personal portfolio (coming soon!)  <br>- 🤝 Open to collaboration and new challenges<br>- 🔍 Excellent at researching and finding answers online</p>
 
 ###
 
