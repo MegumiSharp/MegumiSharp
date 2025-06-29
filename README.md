@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- 🎓 Computer Science student at the University of Bari “Aldo Moro”  <br>- 💻 Passionate about software development and interested in artificial intelligence  <br>- 🐍 Currently learning Python and SQL  <br>- 🌐 Exploring web development technologies  <br>- 🤖 Goal: To deepen my knowledge and skills in artificial intelligence  <br>- 🚀 Preparing for upcoming job opportunities  <br>- 📂 Building a personal portfolio (coming soon!)  <br>- 🤝 Open to collaboration and new challenges<br>- 🔍 Excellent at researching and finding answers online</p>
+<p align="left">## About Me<br><br>🎓 Computer Science student at the University of Bari “Aldo Moro” | 💻 Passionate about software development & AI | 🐍 Learning Python & SQL | 🌐 Exploring web development | 🚀 Preparing for job opportunities | 📂 Portfolio coming soon | 🤝 Open to collaboration | 🔍 Skilled at online research<br><br>---<br><br>
+### 📫 Connect with me<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-enselmi/)  
+  <br>
+  🌐 Portfolio: [YourPortfolioLinkHere](https://yourportfolio.com)</p>
 
 ###
 
@@ -77,5 +81,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MegumiSharp/MegumiSharp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MegumiSharp/MegumiSharp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MegumiSharp/MegumiSharp/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
