@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">- 💻 Passionate about software development and interested in artificial intelligence  <br>- 🐍 Currently learning Python and SQL  <br>- 🌐 Exploring web development technologies  <br>- 🤖 Goal: To deepen my knowledge and skills in artificial intelligence  <br>- 🚀 Preparing for upcoming job opportunities  <br>- 📂 Building a personal portfolio (coming soon!)  <br>- 🤝 Open to collaboration and new challenges<br>- 🔍 Excellent at researching and finding answers online</p>
+<p align="left">- 💻 Passionate about software development and interested in artificial intelligence  <br>-
+  🐍 Currently learning Python and SQL  <br>- 
+  🚀 Preparing for upcoming job opportunities  <br>- 
+  📂 Building a personal portfolio (coming soon!)  <br>- 
+ 🔍 Excellent at researching and finding answers online</p>
+
+Contact me: 
+
+[simone.enselmi@gmail.com](mailto:simone.enselmi@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-enselmi/)  
+
+[YourPortfolioLinkHere](https://yourportfolio.com)
 
 ###
 
